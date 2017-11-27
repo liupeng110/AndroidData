@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" filepath="$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" filepath="$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" />
+      <module fileurl="file://H:\as3.0_project\app\app.iml" filepath="H:\as3.0_project\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/as3.0_project.iml" filepath="$PROJECT_DIR$/as3.0_project.iml" />
+      <module fileurl="file://H:\as3.0_project\mvpdemo\mvpdemo.iml" filepath="H:\as3.0_project\mvpdemo\mvpdemo.iml" />
+    </modules>
+  </component>
+</project>
