@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AidlClient/AidlClient.iml" filepath="$PROJECT_DIR$/AidlClient/AidlClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AidlService/AidlService.iml" filepath="$PROJECT_DIR$/AidlService/AidlService.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignMode/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode/DesignMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IpcClient/IpcClient.iml" filepath="$PROJECT_DIR$/IpcClient/IpcClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IpcService/IpcService.iml" filepath="$PROJECT_DIR$/IpcService/IpcService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" filepath="$PROJECT_DIR$/Libmp3Decoder/Libmp3Decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NightMode/NightMode.iml" filepath="$PROJECT_DIR$/NightMode/NightMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessService/ProcessService.iml" filepath="$PROJECT_DIR$/ProcessService/ProcessService.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" filepath="$PROJECT_DIR$/SimpleMVP/SimpleMVP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketDemo/SocketDemo.iml" filepath="$PROJECT_DIR$/SocketDemo/SocketDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoProcessService/TwoProcessService.iml" filepath="$PROJECT_DIR$/TwoProcessService/TwoProcessService.iml" />
       <module fileurl="file://H:\as3.0_project\app\app.iml" filepath="H:\as3.0_project\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/as3.0_project.iml" filepath="$PROJECT_DIR$/as3.0_project.iml" />
       <module fileurl="file://H:\as3.0_project\mvpdemo\mvpdemo.iml" filepath="H:\as3.0_project\mvpdemo\mvpdemo.iml" />

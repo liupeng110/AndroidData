@@ -1,1 +1,1 @@
-include ':BlockingQueue', ':SimpleMVP','Libmp3Decoder'
+include ':BlockingQueue', ':SimpleMVP', ':DesignMode', ':IpcClient', ':AidlClient', 'AidlService', ':IpcService', ':ProcessService', ':TwoProcessService', ':SocketDemo', ':NightMode', ':Libmp3Decoder'
