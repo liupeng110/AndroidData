@@ -8,12 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/A2DP" />
             <option value="$PROJECT_DIR$/AidlClient" />
             <option value="$PROJECT_DIR$/AidlService" />
             <option value="$PROJECT_DIR$/BlockingQueue" />
             <option value="$PROJECT_DIR$/DesignMode" />
             <option value="$PROJECT_DIR$/IpcClient" />
             <option value="$PROJECT_DIR$/IpcService" />
+            <option value="$PROJECT_DIR$/L3Cache" />
             <option value="$PROJECT_DIR$/Libmp3Decoder" />
             <option value="$PROJECT_DIR$/NightMode" />
             <option value="$PROJECT_DIR$/ProcessService" />
